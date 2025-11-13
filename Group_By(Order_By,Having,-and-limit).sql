@@ -1,5 +1,5 @@
-create database school1;
-use school1;
+create database companyy;
+use company;
 CREATE TABLE ass5 (
     EMP_ID INT PRIMARY KEY,
     FIRST_NAME VARCHAR(50),
